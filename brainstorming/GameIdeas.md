@@ -38,10 +38,23 @@ Epic: Cards with multiple abilities, or something pretty special
 
 Knight: 20 dmg
 
-Special: 20 hp of healing, 100% lifesteal
+Special: 20 hp of healing, 100% lifesteal, 20 hp shield
 
 Card class: Support
  
 Legendary: Cards with several abilities that makes it unique, as well as a special trait
 
+Shadow Assasin: 200 dmg
+
+Special: Lose 35% of your health, 1.5x damage boost to next card, 5 hp 3 turn poison. Discard
+
+Card class: Damage
+ 
 Mythic: Something is extremely unique about them, and they function like their own thing
+
+The emperor: 30 dmg
+
+Special: Stun your enemy for 2 turns, give anti heal for 4 turns. Discard.
+
+Card class: Normal
+ 
